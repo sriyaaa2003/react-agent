@@ -1,0 +1,5 @@
+__pycache__/
+traces/
+traces_baseline/
+.env
+*.pyc
